@@ -1,0 +1,27 @@
+h1. MD Number Format
+
+Format raw number as currency or just with commas.
+
+h2. Info
+
+Developed by Ryan Masuga, http://masugadesign.com
+
+EE Plugin Info: http://expressionengine.com/docs/development/plugins.html
+
+h2. Changelog
+
+*1.0.3 (Mar 9, 2009)*
+
+* Changed name (and class and function) to "MD Number Format"
+
+1.0.2 (Feb 22, 2008)
+
+* If string has no decimal and decimal is specified, it's ignored.
+
+1.0.1 (Jan 20, 2008)
+
+* Added decimal parameter
+
+1.0.0 (Nov 01, 2007)
+
+* Initial release
